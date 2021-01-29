@@ -1,0 +1,21 @@
+#main{
+  text-align: center;
+}
+
+h1{
+  font-size: 62px;  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#image{
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption{
+  font-size: 16px;
+}
