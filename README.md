@@ -2,4 +2,4 @@
 
 ## Salvador Dalí Tribute Page
 
-This is my first project using freeCodeCamp lessons and challanges.
+This is my first coding project and part of my portfolio using freeCodeCamp lessons and challanges.
